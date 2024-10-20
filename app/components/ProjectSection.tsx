@@ -14,7 +14,7 @@ const ProjectsSection: React.FC = () => {
             description="This is a dummy project to demonstrate how the image will be displayed."
             technologies={['Next.js', 'React', 'Tailwind CSS']}
             link="#"
-            imageUrl="/images/dummy-project.jpg"  // Local image URL
+            imageUrl="/images/project.jpg"  // Local image URL
           />
         </div>
       </div>
