@@ -8,7 +8,7 @@ const AboutMeSection: React.FC = () => {
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-4xl font-bold mb-4">About Me</h2>
         <p className="text-lg text-gray-600 mb-8">
-          Hi, I'm [Your Name], a passionate software engineer and AI enthusiast. 
+          Hi, I&apos;m [Your Name], a passionate software engineer and AI enthusiast. 
           I love working on innovative projects and applying my knowledge in AI and full-stack development.
         </p>
         {/* Remove <a> and apply the className directly to Link */}
